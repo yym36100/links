@@ -11,3 +11,7 @@ https://interrupt.memfault.com/blog/diving-into-jtag-part1
 
 https://media.ccc.de/v/26c3-3670-en-blackbox_jtag_reverse_engineering#t=2125 <- hacker talk about jtag and undocumented features
 
+altera jtag
+https://tomverbeure.github.io/2021/10/30/Intel-JTAG-Primitive.html
+
+
