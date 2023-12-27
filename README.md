@@ -73,3 +73,9 @@ compiler explorer
 https://godbolt.org/
 
 
+reversing challenges/tutorials (overthewire vortex is c stuff, drifter)
+hackthebox, overthewire, and others have good challenges to learn on. Do the overthewire ones first, but others with people who have an idea of what they are doing, so you can learn off of them. even better if you can organize a "reveng night"
+
+linux toolkit malware analysis
+https://remnux.org/
+
