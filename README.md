@@ -20,3 +20,29 @@ https://www.appelsiini.net/
 
 https://interrupt.memfault.com/blog/advanced-gdb
 
+https://www.gdbgui.com/
+
+debug monitor
+https://interrupt.memfault.com/blog/cortex-m-debug-monitor
+
+gdb commands
+https://sourceware.org/gdb/current/onlinedocs/gdb.html/Packets.html#index-z-packet
+
+manual itm decoding
+https://interrupt.memfault.com/blog/profiling-firmware-on-cortex-m
+
+makefile guideline
+https://interrupt.memfault.com/blog/gnu-make-guidelines
+
+make implicit variables
+https://www.gnu.org/software/make/manual/html_node/Implicit-Variables.html
+
+make atumatic variables
+https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html
+
+newlib
+https://interrupt.memfault.com/blog/boostrapping-libc-with-newlib
+
+cortex-m context switch
+https://interrupt.memfault.com/blog/cortex-m-rtos-context-switching
+
