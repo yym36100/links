@@ -18,3 +18,5 @@ blogs
 https://www.appelsiini.net/
 
 
+https://interrupt.memfault.com/blog/advanced-gdb
+
