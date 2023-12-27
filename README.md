@@ -46,3 +46,30 @@ https://interrupt.memfault.com/blog/boostrapping-libc-with-newlib
 cortex-m context switch
 https://interrupt.memfault.com/blog/cortex-m-rtos-context-switching
 
+
+https://interrupt.memfault.com/blog/best-and-worst-gcc-clang-compiler-flags
+
+https://interrupt.memfault.com/blog/continuous-integration-for-firmware
+
+https://interrupt.memfault.com/blog/a-deep-dive-into-arm-cortex-m-debug-interfaces
+
+https://lucisqr.substack.com/p/shared-lto-plt-friends-or-foes
+
+https://embeddedartistry.com/blog/2019/04/17/exploring-startup-implementations-newlib-arm/
+
+tang nano 4k fpga
+https://justanotherelectronicsblog.com/?p=986
+
+
+https://interrupt.memfault.com/blog/stm-viewer-debug
+
+mmu less linux on risc v
+https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/
+
+quirks of c
+https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01
+
+compiler explorer
+https://godbolt.org/
+
+
