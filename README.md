@@ -79,3 +79,5 @@ hackthebox, overthewire, and others have good challenges to learn on. Do the ove
 linux toolkit malware analysis
 https://remnux.org/
 
+https://wiki.segger.com/SEGGER_Flash_Loader
+
